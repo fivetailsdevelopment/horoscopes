@@ -1,5 +1,5 @@
 # Horoscope Generator
-by Five Tails Design
+by Five Tails Development
 
 ## Project scope
 + Generate horoscopes for the 12 Zodiac Signts
